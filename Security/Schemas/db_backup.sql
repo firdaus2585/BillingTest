@@ -1,0 +1,3 @@
+CREATE SCHEMA [db_backup]
+AUTHORIZATION [dbo]
+GO
